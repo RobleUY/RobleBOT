@@ -45,7 +45,7 @@ El archivo de distribución está disponible como ZIP para descargar desde GitHu
   </a>
 </div>
 
-> Tamaño actual del archivo ZIP: <strong><!-- ZIP_SIZE -->20.55 MB<!-- /ZIP_SIZE --></strong>
+> Tamaño actual del archivo ZIP: <strong><!-- ZIP_SIZE -->20.56 MB<!-- /ZIP_SIZE --></strong>
 
 ## Cómo usarlo
 
